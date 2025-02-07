@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+langchain
+langchain-groq
+sentence-transformers
+faiss-cpu
+llama-index
+huggingface_hub
+python-dotenv
