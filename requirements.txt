@@ -3,6 +3,7 @@ pymupdf
 langchain
 langchain-groq
 sentence-transformers
+langchain-community
 faiss-cpu
 llama-index
 huggingface_hub
